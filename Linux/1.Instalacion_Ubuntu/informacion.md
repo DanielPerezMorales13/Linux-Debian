@@ -93,109 +93,109 @@
       virtualbox
       ```
 
-      1. ![_virtualbox#1_]()
+      1. ![_virtualbox#1_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox1.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox1.png?raw=true")
 
-      2. ![_virtualbox#2_]()
+      2. ![_virtualbox#2_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox2.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox2.png?raw=true")
 
-      3. ![_virtualbox#3_]()
+      3. ![_virtualbox#3_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox3.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox3.png?raw=true")
 
-      4. ![_virtualbox#4_]()
+      4. ![_virtualbox#4_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox4.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox4.png?raw=true")
 
-      5. ![_virtualbox#5_]()
+      5. ![_virtualbox#5_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox5.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox5.png?raw=true")
 
-      6. ![_virtualbox#6_]()
+      6. ![_virtualbox#6_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox6.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox6.png?raw=true")
 
-      7. ![_virtualbox#7_]()
+      7. ![_virtualbox#7_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox7.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox7.png?raw=true")
 
-      8. ![_virtualbox#8_]()
+      8. ![_virtualbox#8_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox8.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox8.png?raw=true")
 
-      9. ![_virtualbox#9_]()
+      9. ![_virtualbox#9_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox9.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox9.png?raw=true")
 
-      10. ![_virtualbox#10_]()
+      10. ![_virtualbox#10_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox10.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox10.png?raw=true")
 
-      11. ![_virtualbox#11_]()
+      11. ![_virtualbox#11_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox11.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox11.png?raw=true")
 
-      12. ![_virtualbox#12_]()
+      12. ![_virtualbox#12_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox12.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox12.png?raw=true")
 
-      13. ![_virtualbox#13_]()
+      13. ![_virtualbox#13_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox13.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox13.png?raw=true")
 
-      14. ![_virtualbox#14_]()
+      14. ![_virtualbox#14_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox14.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox14.png?raw=true")
 
-      15. ![_virtualbox#15_]()
+      15. ![_virtualbox#15_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox15.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox15.png?raw=true")
 
-      16. ![_virtualbox#16_]()
+      16. ![_virtualbox#16_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox16.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox16.png?raw=true")
 
-      17. ![_virtualbox#17_]()
+      17. ![_virtualbox#17_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox17.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox17.png?raw=true")
 
-      18. ![_virtualbox#18_]()
+      18. ![_virtualbox#18_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox18.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox18.png?raw=true")
 
-      19. ![_virtualbox#19_]()
+      19. ![_virtualbox#19_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox19.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox19.png?raw=true")
 
-      20. ![_virtualbox#20_]()
+      20. ![_virtualbox#20_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox20.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox20.png?raw=true")
 
-      21. ![_virtualbox#21_]()
+      21. ![_virtualbox#21_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox21.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox21.png?raw=true")
 
-      22. ![_virtualbox#22_]()
+      22. ![_virtualbox#22_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox22.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox22.png?raw=true")
 
-      23. ![_virtualbox#23_]()
+      23. ![_virtualbox#23_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox23.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox23.png?raw=true")
 
-      24. ![_virtualbox#24_]()
+      24. ![_virtualbox#24_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox24.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox24.png?raw=true")
 
-      25. ![_virtualbox#25_]()
+      25. ![_virtualbox#25_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox25.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox25.png?raw=true")
 
-      26. ![_virtualbox#26_]()
+      26. ![_virtualbox#26_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox26.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox26.png?raw=true")
 
-      27. ![_virtualbox#27_]()
+      27. ![_virtualbox#27_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox27.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox27.png?raw=true")
 
-      28. ![_virtualbox#28_]()
+      28. ![_virtualbox#28_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox28.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox28.png?raw=true")
 
-      29. ![_virtualbox#29_]()
+      29. ![_virtualbox#29_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox29.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox29.png?raw=true")
 
-      30. ![_virtualbox#30_]()
+      30. ![_virtualbox#30_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox30.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox30.png?raw=true")
 
-      31. ![_virtualbox#31_]()
+      31. ![_virtualbox#31_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox31.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox31.png?raw=true")
 
-      32. ![_virtualbox#32_]()
+      32. ![_virtualbox#32_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox32.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox32.png?raw=true")
 
-      33. ![_virtualbox#33_]()
+      33. ![_virtualbox#33_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox33.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox33.png?raw=true")
 
-      34. ![_virtualbox#34_]()
+      34. ![_virtualbox#34_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox34.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox34.png?raw=true")
 
-      35. ![_virtualbox#35_]()
+      35. ![_virtualbox#35_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox35.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox35.png?raw=true")
 
-      36. ![_virtualbox#36_]()
+      36. ![_virtualbox#36_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox36.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox36.png?raw=true")
 
-      37. ![_virtualbox#37_]()
+      37. ![_virtualbox#37_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox37.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox37.png?raw=true")
 
-      38. ![_virtualbox#38_]()
+      38. ![_virtualbox#38_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox38.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox38.png?raw=true")
 
-      39. ![_virtualbox#39_]()
+      39. ![_virtualbox#39_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox39.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox39.png?raw=true")
 
-      40. ![_virtualbox#40_]()
+      40. ![_virtualbox#40_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox40.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox40.png?raw=true")
 
-      41. ![_virtualbox#41_]()
+      41. ![_virtualbox#41_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox41.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox41.png?raw=true")
 
-      42. ![_virtualbox#42_]()
+      42. ![_virtualbox#42_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox42.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox42.png?raw=true")
 
-      43. ![_virtualbox#43_]()
+      43. ![_virtualbox#43_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox43.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox43.png?raw=true")
 
-      44. ![_virtualbox#44_]()
+      44. ![_virtualbox#44_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox44.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox44.png?raw=true")
 
-      45. ![_virtualbox#45_]()
+      45. ![_virtualbox#45_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox45.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox45.png?raw=true")
 
-      46. ![_virtualbox#46_]()
+      46. ![_virtualbox#46_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox46.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox46.png?raw=true")
 
-      47. ![_virtualbox#47_]()
+      47. ![_virtualbox#47_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox47.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox47.png?raw=true")
 
-      48. ![_virtualbox#48_]()
+      48. ![_virtualbox#48_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox48.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox48.png?raw=true")
 
-      49. ![_virtualbox#49_]()
+      49. ![_virtualbox#49_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox49.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox49.png?raw=true")
 
-      50. ![_virtualbox#50_]()
+      50. ![_virtualbox#50_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox50.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox50.png?raw=true")
 
-      51. ![_virtualbox#51_]()
+      51. ![_virtualbox#51_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox51.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox51.png?raw=true")
 
-      52. ![_virtualbox#52_]()
+      52. ![_virtualbox#52_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox52.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox52.png?raw=true")
 
 > _Las particiones son divisiones lógicas en el disco duro de tu computadora que permiten organizar y gestionar el espacio de almacenamiento. Estas divisiones son esenciales por varias razones:_
 
@@ -321,7 +321,7 @@ _En este ejemplo, `/dev/sda1`, `/dev/sda2`, y `/dev/sda3` son particiones primar
 2. **Insertar el CD de Guest Additions:**
 
    - _Desde el menú de VirtualBox, selecciona "Dispositivos" -> "Insertar imagen de CD de Guest Additions..."_
-   - ![_virtualbox#53_]()
+   - ![_virtualbox#53_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox53.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox53.png?raw=true")
 
 3. **Acceder al Terminal en el Sistema Invitado:**
 
@@ -333,13 +333,13 @@ _En este ejemplo, `/dev/sda1`, `/dev/sda2`, y `/dev/sda3` son particiones primar
          sudo apt-get install build-essential linux-headers-$(uname -r)
        ```
 
-     - ![_virtualbox#58_]()
+     - ![_virtualbox#58_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox58.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox58.png?raw=true")
 
 4. **Ejecutar el script de instalacion:**
 
    1. _Ir al directorio y ejecutarlo_
 
-      1. ![_virtualbox#54_]()
+      1. ![_virtualbox#54_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox54.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox54.png?raw=true")
 
       2. ```bash
          cd /media/daniel/VBox_Gas_6.1.38
@@ -351,7 +351,7 @@ _En este ejemplo, `/dev/sda1`, `/dev/sda2`, y `/dev/sda3` son particiones primar
          ls
          ```
 
-         1. ![_virtualbox#55_]()
+         1. ![_virtualbox#55_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox55.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox55.png?raw=true")
 
          2. _Actualizamos el sistema_
 
@@ -365,9 +365,9 @@ _En este ejemplo, `/dev/sda1`, `/dev/sda2`, y `/dev/sda3` son particiones primar
                sudo apt-get install upgrade
                ```
 
-      5. ![_virtualbox#56_]()
+      5. ![_virtualbox#56_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox56.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox56.png?raw=true")
 
-      6. ![_virtualbox#57_]()
+      6. ![_virtualbox#57_](https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox57.png?raw=true "https://github.com/DanielPerezMorales13/Linux-Debian/blob/main/Linux/Images/PNG/Img_Virtualbox/virtualbox57.png?raw=true")
 
 5. **Reiniciar la Máquina Virtual:**
 
@@ -419,7 +419,7 @@ _En este ejemplo, `/dev/sda1`, `/dev/sda2`, y `/dev/sda3` son particiones primar
 
 2. _Ejecutar el programa_
    1. _Te pedira que seleccione la iso del sistema operativo_
-   2. *Segunda cosa que te pedira es la unidad extraible osea el **USB***
+   2. \*Segunda cosa que te pedira es la unidad extraible osea el **USB\***
    3. _De ultimo simplemente lo finalizaremos_
    4. _Y ya con esa **USB** podremos instalar Linux en cualquier ordenador_
 
@@ -427,9 +427,9 @@ _En este ejemplo, `/dev/sda1`, `/dev/sda2`, y `/dev/sda3` son particiones primar
 
 **Buscar en la barra de busqueda en windows** _Crear y formatear particiones del disco o administracion de discos_
 
-1. *Seleccionar el disco que queremos particionar y luego darle reducir volumen*
-2. *Tendremos un limite de espacio para particionar el disco windows no los dira*
-3. *Poner la cantidad de espacio que queremos particionar siempre y cuando no sobre pase el limite establecido por windows y listo*
+1. _Seleccionar el disco que queremos particionar y luego darle reducir volumen_
+2. _Tendremos un limite de espacio para particionar el disco windows no los dira_
+3. _Poner la cantidad de espacio que queremos particionar siempre y cuando no sobre pase el limite establecido por windows y listo_
 
 _*Luego tenemos que configurar la BIOS para arrancar el ordenador desde la USB*_
 
@@ -439,6 +439,6 @@ _*Luego tenemos que configurar la BIOS para arrancar el ordenador desde la USB*_
 
 2. _Cuando entremos ala Bios ir ala opcion modo avanzado y luego ir a **BOOT** y luego colocar la USB de primero para que arranque el sistema operativo desde el usb de primero_
 
-**Si tenemos problema al particionar el disco se puede deber a muchas razones** 
+**Si tenemos problema al particionar el disco se puede deber a muchas razones**
 
-1. [*Guía partition wizard*](https://www.partitionwizard.com/partitionmanager/cannot-shrink-volume-win10.html "https://www.partitionwizard.com/partitionmanager/cannot-shrink-volume-win10.html")
+1. [_Guía partition wizard_](https://www.partitionwizard.com/partitionmanager/cannot-shrink-volume-win10.html "https://www.partitionwizard.com/partitionmanager/cannot-shrink-volume-win10.html")
