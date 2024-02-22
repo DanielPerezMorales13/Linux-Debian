@@ -11,7 +11,7 @@ _Sistemas basados en Linux Ubuntu_
 - [**Enlaces duros y simbolicos**](#enlaces-duros-y-simbolicos)
 - [**_Curl_**](#curl)
 - [**_Jerarquia de directorios_**](#jerarquia-de-directorios)
-- [***Opciones de comando `ls`***](#opciones-de-comando-ls)
+- [**_Opciones de comando `ls`_**](#opciones-de-comando-ls)
 
 ---
 
@@ -436,7 +436,7 @@ sudo apt-get install curl
 
       5. _Los últimos tres caracteres `r--` representan los permisos de todos los demás usuarios. En este caso, otros usuarios solo tienen permisos de lectura `(r)`._
 
-      6. _`1`: Este es el número de enlaces al ficheros. Un ficheros regular tendrá al menos 1._
+      6. _`1`: Este es el número de enlaces enlace duros al ficheros. Un ficheros regular tendrá al menos 1._
 
       7. _`daniel`: El primer daniel es el propietario del ficheros._
 
@@ -763,8 +763,10 @@ chmod [opción] modo fichero
 
 **Para crear un enlace duro:**
 
+> *La opción `--link` de la herramienta ln de Unix permite crear un enlace duro entre dos ficheros. Esto significa que ambos ficheros comparten el mismo contenido y cualquier cambio realizado en uno de ellos se reflejará en el otro.*
+
 ```bash
-ln ficheros.py enlace_duro
+ln ficheros.py --link enlace_duro.py
 ```
 
 ```bash
@@ -774,7 +776,7 @@ ln fichero.py enlace_duro.py
 **Para crear un enlace simbólico:**
 
 ```bash
-ln -s ficheros.py enlace_simbolico
+ln -s ficheros.py enlace_simbolico.py
 ```
 
 `-s, --symbolic              crea enlaces simbólicos en vez de enlaces duros`
@@ -800,13 +802,21 @@ _Supongamos que tienes un ficheros llamado `fichero.py` y quieres crear un enlac
 _Para el enlace duro, usarías:_
 
 ```bash
-ln fichero.py enlace_duro
+ln fichero.py --link enlace_duro.py
+```
+
+```bash
+ln fichero.py enlace_duro.py
 ```
 
 _Para el enlace simbólico, usarías:_
 
 ```bash
 ln -s fichero.py enlace_simbolico
+```
+
+```bash
+ln --symbolic fichero.py enlace_simbolico.py
 ```
 
 > _Después de ejecutar estos comandos, tanto `enlace_duro` como `enlace_simbolico` apuntarán a `fichero1.py`. Sin embargo, si `fichero1.py` se mueve o se elimina, `enlace_duro` seguirá apuntando al contenido del ficheros original, mientras que `enlace_simbolico` se romperá y no apuntará a nada._
@@ -963,40 +973,40 @@ ln -s fichero.py enlace_simbolico
 
 ---
 
-# ***Opciones de comando `ls`***
+# **_Opciones de comando `ls`_**
 
-*`ls --format=long`: Muestra la información detallada de los ficheros, incluyendo permisos, número de enlaces, propietario, grupo, tamaño, fecha y nombre del fichero.*
+_`ls --format=long`: Muestra la información detallada de los ficheros, incluyendo permisos, número de enlaces, propietario, grupo, tamaño, fecha y nombre del fichero._
 
 - ```bash
     ls --format=long
-   ```
+  ```
 
-*`ls --format=verbose`: Proporciona una salida más detallada que la opción long, mostrando información adicional sobre los ficheros.*
+_`ls --format=verbose`: Proporciona una salida más detallada que la opción long, mostrando información adicional sobre los ficheros._
 
 - ```bash
     ls --format=verbose
-   ```
+  ```
 
-*`ls --format=comma`: Muestra los nombres de los ficheros separados por comas en una sola línea.*
+_`ls --format=comma`: Muestra los nombres de los ficheros separados por comas en una sola línea._
 
 - ```bash
     ls --format=comma
-   ```
+  ```
 
-*`ls --format=horizontal`: Muestra la salida en formato horizontal, con varios ficheros por línea.*
+_`ls --format=horizontal`: Muestra la salida en formato horizontal, con varios ficheros por línea._
 
 - ```bash
     ls --format=horizontal
-   ```
+  ```
 
-*`ls --format=across`: Muestra la salida en formato horizontal con un solo fichero por línea.*
+_`ls --format=across`: Muestra la salida en formato horizontal con un solo fichero por línea._
 
 - ```bash
     ls --format=across
-   ```
+  ```
 
-*`ls --format=single-column`: Muestra un solo fichero por línea, en una sola columna.*
+_`ls --format=single-column`: Muestra un solo fichero por línea, en una sola columna._
 
 - ```bash
     ls --format=single-column
-   ```
+  ```
